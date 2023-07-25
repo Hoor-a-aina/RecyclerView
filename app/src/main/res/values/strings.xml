@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+   <string-array name="fruits_name">
+        <item>APPLE</item>
+       <item>PEACH</item>
+       <item>STRAWBERRY</item>
+       <item>MANGO</item>
+       <item>ORANGE</item>
+       <item>KIWI</item>
+   </string-array>
+
+
+    <string-array name="fruits_price">
+        <item>Price : 1$</item>
+        <item>Price : 2$</item>
+        <item>Price : 3$</item>
+        <item>Price : 4$</item>
+        <item>Price : 5$</item>
+        <item>Price : 6$</item>
+    </string-array>
+</resources>
